@@ -88,5 +88,6 @@ batteries is as follows:
 * Amazon doesn't have great options for deep cycle marine batteries. I bought
   mine at a local store called "Batteries + Bulbs" (that's all they sell)!
 
-My group 24 battery is approximately the size of a car battery:
+My group 24 battery is approximately the size of a car battery. Here's a picture:
+
 ![A deep cycle marine battery](./img/deep_cycle_marine_battery.jpg)
