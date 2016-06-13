@@ -30,7 +30,7 @@ A few things to note:
    Striker 4 was a _dual beam transducer_, meaning it can send out two
    frequencies at the same time.
 
-   ![Transducer Frequencies](./img/200khz_vs_50khz.png =400x)
+   ![Transducer Frequencies](./img/200khz_vs_50khz.png =400x400)
    The beam of a transducer set to 200 kHz, left, covers less area but shows
    much more detail. This is the frequency that's most useful for shallow-water
    applications. The 50 kHz transducer beam, right, sacrifices some detail for a
