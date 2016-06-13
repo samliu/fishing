@@ -63,7 +63,7 @@ batteries is as follows:
   and it weighs close to 50lbs.
 * Wet cell batteries like these need to be constantly plugged in if you want
   them to be maintained / not go bad. That means either leaving it plugged in,
-  in a garage, or if you live in a studio like I do...I charge it under your
+  in a garage, or if you live in a studio like I do...charge it under your
   desk? It's huge. I kinda wish I could leave it somewhere I wasn't breathing
   the same air as it or risking an explosion -- I might move it to a friend's
   garage at some point. I bought a fancy [Minn Kota Battery Charger and
