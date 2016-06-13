@@ -24,8 +24,8 @@ brand names Sevylor and Intex are both pretty common).
 
 ## TL;DR
 
-TL;DR you'll probably spend $160 (trolling motor) + $50 (fancy battery charger)
-+ $100 (deep cycle marine battery) + $50 (optional-ish battery case / circuit
+TL;DR you'll probably spend $160 (trolling motor) + $50 (fancy battery charger) +
+$100 (deep cycle marine battery) + $50 (optional-ish battery case / circuit
 breaker) = $360 if you want to get into the trolling motor game.  If you're not
 ready to drop that kind of dough, maybe stick to fishing on a pier or dock for a
 while, though personally I think $360 for a bunch of equipment that you'll use
