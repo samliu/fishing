@@ -40,9 +40,10 @@ worth it.
 
 Clanging around in a rowboat is suboptimal:
 
-* Clanging scares fish.  The current set us adrift and it was hard to maintain
-* good position.  Getting back to shore was really exhausting. Fishing is tiring
-* as it is.
+* Clanging scares fish.
+* The current set us adrift and it was hard to maintain good position.
+* Getting back to shore was really exhausting. Fishing is tiring
+  as it is.
 
 ## Deep Cycle Marine Batteries
 
