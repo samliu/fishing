@@ -58,8 +58,9 @@ batteries is as follows:
   Amp Hours (AH) rating for the batteries, but there is a correlation between
   case size and AH rating. For deep cycle batteries, the larger the case size
   the more capacity the battery will usually have.
-* Batteries are heavy. Mine is a Duracell Group 24M 75AH Marine Deep Cycle
-  battery, and it weighs close to 50lbs.
+* Batteries are heavy. Mine is a [Duracell Group 24M 75AH Marine Deep Cycle
+  battery](https://www.batteriesplus.com/battery/marine-and-boat/deep-cycle/bci-group-24m/sli24mdc),
+  and it weighs close to 50lbs.
 * Wet cell batteries like these need to be constantly plugged in if you want
   them to be maintained / not go bad. That means either leaving it plugged in,
   in a garage, or if you live in a studio like I do...I charge it under your
