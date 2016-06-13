@@ -12,12 +12,15 @@ Kinds of Trout in California: Brook Trout, Brown Trout, Bull Trout, California G
 
 The California Dept of Fish and Wildlife recommends using Rip Baits such as Smithwick or TD Minnow, Plastic Worms (brown and green), Zara Spooks, Rico, Spoons of various sizes, Spinnerbaits, Crank Baits, Frogs, and Senkos to catch Bass.
 
+#### Largemouth Bass
+
 * [Largemouth Bass](https://en.wikipedia.org/wiki/Largemouth_bass) max out around 22lbs (that's extraordinarily large) but you should be happy to get anything 5lbs or more.
 * Water Depth: TODO
 * Season: TODO
 * Preferred Lures: plastic worms (and other plastic baits), jigs, crankbaits and spinnerbaits.
 * Preferred Baits: nightcrawlers, minnows, frogs, crawfish, golden shiners (a kind of baitfish).
 
+#### Smallmouth Bass
 
 * [Smallmouth Bass](https://en.wikipedia.org/wiki/Smallmouth_bass) max out around 12lbs.
 * Water Depth: TODO
