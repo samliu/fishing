@@ -30,7 +30,7 @@ A few things to note:
    Striker 4 was a _dual beam transducer_, meaning it can send out two
    frequencies at the same time.
 
-   ![Transducer Frequencies](./img/200khz_vs_50khz.png)
+   ![Transducer Frequencies](./img/200khz_vs_50khz.png =400x)
    The beam of a transducer set to 200 kHz, left, covers less area but shows
    much more detail. This is the frequency that's most useful for shallow-water
    applications. The 50 kHz transducer beam, right, sacrifices some detail for a
@@ -44,3 +44,9 @@ this](https://www.amazon.com/iBobber-Wireless-Bluetooth-Android-devices/dp/B00LE
 which seems to have terrible reviews. I don't know if you can just manually hold
 your transducer in the water and see if there are fish; I suspect it doesn't
 work too well because transducers are directional.
+
+## Kinds of Fish Sonar
+
+### Traditional
+
+### Downscanning
