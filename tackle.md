@@ -24,7 +24,7 @@ A swivel is a piece of tackle that lets your bait spin freely in the water witho
 twisting your line. That's important because it makes your bait look more alive to
 watching fish!
 
-![What a swivel looks like](./img/swivel.jpg)
+<img alt="What a swivel looks like" src="./img/swivel.jpg" height="200">
 
 ## Bobber
 
@@ -32,7 +32,7 @@ A bobber is a floater (generally a 50 cent piece of plastic) that you can clip o
 line at some point to keep your bait at a specific depth. I think for hunting smarter fish
 you probably want a more expensive bobber that doesn't look so obvious.
 
-![What a common bobber looks like](./img/red_white_bobber.jpg)
+<img alt="What a common bobber looks like" src="./img/red_white_bobber.jpg" height="200">
 
 The red and white bobber shown here is one of the most common ones and is often used to fish
 for sunfish, crappies, and bluegill.
