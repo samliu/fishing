@@ -2,13 +2,17 @@
 
 ## Table of Contents
 
+### Equipment
+
+* [Fishing Rods and Reels](fishing_rods.md)
+* [Lures](lures.md)
+* [Trolling Motors](trolling.md)
+* [Fish Finders](fish_finders.md) 
+
 ### Lake Fishing
 
-* [Trolling Motors](trolling.md)
-* [Fish Finders](fish_finders.md)
 * [Lake Fish Types](lake_fish.md)
 * [Freshwater Baits](freshwater_bait.md)
-* [Fishing Rods and Reels](fishing_rods.md)
 
 ### Pier Fishing
 
