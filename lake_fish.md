@@ -40,7 +40,8 @@ The California Dept of Fish and Wildlife recommends using Rip Baits such as Smit
 
 On feeding habits, from the CA Dept of Fish and Wildlife website:
 
-> Striped bass are voracious feeders. They generally feed on the most available and abundant invertebrates and forage fish > of the appropriate size.
+> Striped bass are voracious feeders. They generally feed on the most available and abundant invertebrates and forage fish 
+> of the appropriate size.
 >
 > Initially, small bass feed on tiny crustacean plankton, but, after a few weeks, the favorite food becomes the
 > mysid shrimp and amphipods. Mysid shrimp are most numerous where salt levels are 1–20 percent of sea water.
