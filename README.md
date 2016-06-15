@@ -1,7 +1,5 @@
 # Sam's Guide to Fishing
 
-*June 09, 2016*
-
 ## Table of Contents
 
 ### Lake Fishing
@@ -10,6 +8,7 @@
 * [Fish Finders](fish_finders.md)
 * [Lake Fish Types](lake_fish.md)
 * [Freshwater Baits](freshwater_bait.md)
+* [Fishing Rods and Reels](fishing_rods.md)
 
 ### Pier Fishing
 
