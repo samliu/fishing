@@ -17,7 +17,7 @@ A few things to note:
    enough to last me approximately a half day. This battery can be a small thing
    like this:
 
-   ![A small lead-acid battery](./img/lead_acid_battery.jpg)
+   <img alt="A small lead-acid battery" src="./img/lead_acid_battery.jpg" height="150">
 
    ...and wiring it is really easy. Red cable to read lead. Black cable to black
    lead. Nothing complicated, it turns on and works!
