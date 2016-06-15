@@ -36,3 +36,11 @@ you probably want a more expensive bobber that doesn't look so obvious.
 
 The red and white bobber shown here is one of the most common ones and is often used to fish
 for sunfish, crappies, and bluegill.
+
+## Fish Bonker
+
+Euphemism for a billy club or small bat. You hit the fish really hard on the head with them as a
+"more humane" way to kill them so they don't suffer as much. It feels pretty brutal when you hit
+them though, and reminds me that fishing is a kind of hunting.
+
+![Fish bonker](./img/fish_bonker.jpg)
