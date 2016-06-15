@@ -69,6 +69,11 @@ This gives resistance to the line after hooking a fish to aid in landing the fis
 If you use good fishing technique and your rod's flex, this allows larger fish to be caught than the straight
 breaking strength of the line!
 
+In simpler terms, when you catch a fish, your line isn't just frozen in place. Line actually goes out. A drag
+system determines how quickly it goes out -- not as fast as if you're just casting it, but not zero. If it goes
+out super fast you have to reel really hard. If it goes out too slow and you catch a fast-swimming fish, it could
+yank your rod out of your hands or break the line.
+
 Good drag systems are consistent, durable, and smooth. That means
 
 1. They should always generate the same force
