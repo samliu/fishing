@@ -33,8 +33,9 @@ and not in others.
 ## Crankbaits
 
 Crankbaits are your less exciting normal baits that you put into the water and crank up.
+They are generally used with spinning rods.
 
-There are some guidelines for using crankbaits well though.
+There are some guidelines for using crankbaits well, especially for bass fishing:
 
 * When bass fishing, keep your rod pointed 45 degrees downward rather than 90 degrees perpendicular
 to the water. This helps you set your hook in the bass's mouth quicker than if you have to lower the
