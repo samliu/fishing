@@ -24,6 +24,8 @@ everyone. But fish really like them! We had bluegills come with a lot of
 interest in our worms! But most of them made away with the bait to date; I still
 have to get better at hooking them.
 
+A worm that is hooked is called an _angleworm_.
+
 #### How to correctly hook nightcrawlers
 
 So the advice I heard from a friendly man at the reservoir was that you want to
