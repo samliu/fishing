@@ -8,6 +8,7 @@
 * [Lures](lures.md)
 * [Trolling Motors](trolling.md)
 * [Fish Finders](fish_finders.md) 
+* [Tackle](tackle.md)
 
 ### Lake Fishing
 
