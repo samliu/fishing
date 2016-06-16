@@ -3,6 +3,9 @@
 Lures are non-organic things you use to entice fish to bite, generally by making them think
 they're after a worm or a baitfish.
 
+As it turns out, lures are just as effective as live baits in most cases, but you have to know
+how to use them correctly (particularly casting baits, as opposed to crankbaits).
+
 There are many kinds of lures. Some will require that you use a baitcaster (or "caster") rod
 instead of a common "spinning" rod. This is because for lures to work, you generally want them
 to emulate some living creature (usually a small baitfish).
