@@ -1,4 +1,3 @@
 # Saltwater Pier Fish
 
-TODO(samliu): I know approximately nothing about pier fishing. I did pick up two
-coleman camping chairs for $7 from a Walmart Slickdeal though!
+* __Mackerel__ make great bait for larger fish as they bleed a lot. You can catch them easily when they're swarming using a japanese _sabiki rig._
