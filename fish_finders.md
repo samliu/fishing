@@ -50,4 +50,10 @@ work too well because transducers are directional.
 
 ### Traditional
 
+Traditional / cheap sonars only show arches under your boat so you don't actually know what kind of shape they have, you can only assume / hope they are actually fish.
+
+<img alt="Fish finder arches" src=".img/fish_finder_arches.png" width="400">
+
 ### Downscanning
+
+Downscanning sonar (e.g Garmin DownVu) does a higher resolution / top-down scan that reveals the actual topography of the floor. This can reveal hidden fishies such as halibut / flounders! This is however a little more expensive.
