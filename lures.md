@@ -42,8 +42,7 @@ and not in others.
 
 ## Crankbaits
 
-Crankbaits are your less exciting normal baits that you put into the water and crank up.
-They are generally used with spinning rods.
+Crankbaits can be used both with casting and spinning reels. The idea behind a crankbait is you cast it as far as you can, then slowly crank it back. Then do it again and again. The only way to fish a crankbait wrong is to fish it at the wrong depth.
 
 There are some guidelines for using crankbaits well, especially for bass fishing:
 
