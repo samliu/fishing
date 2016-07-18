@@ -25,7 +25,7 @@ Most jerkbaits are _ripbaits_.
 
 ### Swimbaits
 
-These are lures that have segments and are designed to look like swimming fish. You sort of have to move them around in still water, otherwise I've caught stuff on them in the ocean just from the ocean water moving.
+These are lures that have segments and are designed to look like swimming fish. You sort of have to move them around in still water, otherwise I've caught stuff on them in the ocean just from the ocean water moving. [Example of a swimbait](https://www.amazon.com/Blue-Gill-Panfish-Talipia-Fishing/dp/B00RC9A66A).
 
 ### Ripbaits
 
