@@ -52,7 +52,7 @@ work too well because transducers are directional.
 
 Traditional / cheap sonars only show arches under your boat so you don't actually know what kind of shape they have, you can only assume / hope they are actually fish.
 
-<img alt="Fish finder arches" src=".img/fish_finder_arches.png" width="400">
+<img alt="Fish finder arches" src="./img/fish_finder_arches.png" width="400">
 
 ### Downscanning
 
