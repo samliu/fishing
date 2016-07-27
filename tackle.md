@@ -18,6 +18,20 @@ From Wikipedia:
 > fishing lures. Sometimes the term fishing rig is used for a completed assembly
 > of tackle ready for fishing.
 
+## Hooks
+
+### Hook Sizing
+
+Sizes from small to large go: `7, 6, 5, 4, 3, 2, 1, 1/0, 2/0, 3/0, 4/0, 5/0, 6/0, 7/0`
+
+So 7/0 would be a very large hook, and 7 would be a pretty tiny hook.
+
+### Hook Types
+
+#### Circle Hook
+
+#### Octopus Hook
+
 ## Swivel
 
 A swivel is a piece of tackle that lets your bait spin freely in the water without
