@@ -30,7 +30,15 @@ So 7/0 would be a very large hook, and 7 would be a pretty tiny hook.
 
 #### Circle Hook
 
+These hooks curve inward toward the stem and are designed to set themselves when a fish bites. You shouldn't hard set a circle hook. They work best when the fish grabs your bait / lure then turns around (which they usually do) -- and sets the hook in their cheek. Enables catch-and-release because it doesn't hook the fish's other body parts.
+
+#### J Hook
+
+J Hooks are just sharp J-shaped hooks. They don't curve inward, they curve up sharply. They require you to pull in on a strike to set the hook, and are very effective for big game fishing. However they're actually illegal in some places because they often gut-hook or gill-hook fish, greviously wounding them in the process. So it makes catch and release not possible if you're using this kind of hook. Some states / parks will mandate you use circle hooks to ensure you can return fish.
+
 #### Octopus Hook
+
+Somewhere between a J-hook and a circle hook, but more like a circle hook.
 
 ## Swivel
 
@@ -38,7 +46,11 @@ A swivel is a piece of tackle that lets your bait spin freely in the water witho
 twisting your line. That's important because it makes your bait look more alive to
 watching fish!
 
-<img alt="What a swivel looks like" src="./img/swivel.jpg" height="200">
+The following image is called a "snap swivel" because it has a closed loop on one end and a big loop that snaps open/closed on the other. If there are two closed loops then it's a "barrel swivel."
+
+<img alt="Snap Swivel" src="./img/swivel.jpg" height="200">
+
+## 
 
 ## Bobber
 
