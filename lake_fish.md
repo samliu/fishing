@@ -34,8 +34,8 @@ The California Dept of Fish and Wildlife recommends using Rip Baits such as Smit
 * [Striped Bass](https://www.wildlife.ca.gov/Fishing/Inland/Striped-Bass) can get up to 110lbs but in California the largest one ever was ~70lbs.
 * Water Depth: TODO
 * Season: All year, but they feed a lot less in cold weather. Wait for warm seasons for it to get good. They migrate between fresh and salt water! During the summer and fall, striped bass fishing is at its peak in San Francisco Bay. Trollers and live bait drifters make good catches with regularity in Raccoon Strait, at the south tower of the Golden Gate Bridge, at submerged rocky reefs in central San Francisco Bay, and off Alcatraz and Treasure Islands.
-* Preferred Lures: 
-* Preferred Baits: 
+* Preferred Lures: in the ocean use a _bucktail jig_.
+* Preferred Baits: in the ocean use a _surf leader_ rig with octopus hooks. Apparently sand crabs are also great for surf fishing.
 * Other details: To avoid catching too many undersized stripers, it is advisable to use hooks at least half an inch between the point and the shank. Fewer small fish will swallow the large hooks, so serious injuries will be reduced.
 
 On feeding habits, from the CA Dept of Fish and Wildlife website:
