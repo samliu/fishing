@@ -1,8 +1,4 @@
-# Fishing Rods
-
-
-
-## Reels
+# Fishing Reels
 
 There are [many kinds of reels](https://en.wikipedia.org/wiki/Fishing_reel#Types_of_fishing_reels) but
 the ones to know aren't too many and talked about below.
