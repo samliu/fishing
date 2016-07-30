@@ -4,7 +4,9 @@
 
 ### Equipment
 
-* [Fishing Rods and Reels](fishing_rods_and_reels.md)
+* [Reels](reels.md)
+* [Rods](rods.md)
+* [Line](line.md)
 * [Lures](lures.md)
 * [Trolling Motors](trolling.md)
 * [Fish Finders](fish_finders.md) 
