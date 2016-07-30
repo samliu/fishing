@@ -25,4 +25,4 @@ Want to land bigger fish? Learn at least these two knots:
 
 This one is a classic and fisher favorite.
 
-[!](./img/uni-knot.jpg)
+![Uni Knot](./img/uni-knot.jpg)
