@@ -20,6 +20,10 @@
 * [Fish Types](saltwater_pier_fish.md)
 * [Saltwater Baits](saltwater_bait.md)
 
+### Technique
+
+* [Tying Knots](knots.md)
+
 ## Introduction
 
 A couple of months ago my partner and I went on a fishing trip on the bay: we
