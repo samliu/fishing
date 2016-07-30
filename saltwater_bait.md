@@ -12,7 +12,7 @@ Good chum can be purchased at your local grocery store. Here are some options:
 * Frozen Squid
 * Fish remains
 
-As you can imagine the ocean is huge so it's important that your chum stay smelly and near where you're casting. Some people use a burlap sack because it's eco-friendly instead of a compostable bag, and push things like fish guts inside and let it sit in the water. It takes ~30+ minutes at least for fish to start smelling the chum and heading your direction. Chum works for fish like stripers but also sharks.
+As you can imagine the ocean is huge so it's important that your chum stay smelly and near where you're casting. Some people use a burlap sack because it's eco-friendly instead of a compostable bag, and push things like fish guts inside and let it sit in the water. It takes ~30+ minutes at least for fish to start smelling the chum and heading your direction. Chum works for predatory fish like stripers but also sharks.
 
 ## Live Bait
 
