@@ -23,6 +23,6 @@ Want to land bigger fish? Learn at least these two knots:
 
 ## Uni Knot
 
-This one is a classic and fisher favorite. You can join 2 pieces of line by using two unis (a double uni). For example, one time when I was fishing the sabiki rig I was using was too close to the bottom where my weight was hitting. So to make things easier I put my weight on a piece of line, then joined it with the end of my sabiki using a uni knot. Then my rig was floating higher in the water where fish were biting!
+This one is a classic and fisher favorite. You can join 2 pieces of line by using two unis (a double uni). For example, one time when I was fishing the sabiki rig I was using was too close to the bottom where my weight was hitting. So to make things easier I put my weight on a piece of line, then joined it with the end of my sabiki using a double uni. Then my rig was floating higher in the water where fish were biting!
 
 ![Uni Knot](./img/uni-knot.jpg)
