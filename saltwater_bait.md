@@ -24,4 +24,5 @@ As you can imagine the ocean is huge so it's important that your chum stay smell
 ## Dead Bait
 
 * Mackerel is fish that gets very bloody. If you catch some mackerel (easiest using a [sabiki rig](https://www.amazon.com/Assorted-Freshwater-Saltwater-Interlock-Connector/dp/B00QLG01XI/ref=sr_1_3?s=sporting-goods&ie=UTF8&qid=1468821772&sr=1-3&keywords=sabiki+rig)) you can chum the water by cutting their heads off and throwing them back in. You can also use them as live bait.
+* Sand crabs, which can be found on the beach if you dig around.
 * Jacksmelt can be quartered and you can use a piece on a hook. The head is great apparently; beware tails because sometimes big fish (stripers) will nibble at the tail first and be more cautious.
