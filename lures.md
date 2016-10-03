@@ -6,12 +6,14 @@ they're after a worm or a baitfish.
 As it turns out, lures are just as effective as live baits in most cases, but you have to know
 how to use them correctly (particularly casting baits, as opposed to crankbaits).
 
-I personally am starting to like lures more than baits for a few reasons:
+I personally am starting to like lures more than baits when surfcasting for a few reasons:
 
 1. Lures don't get snagged on seaweed as much when you're surfcasting.
 2. They are their own weight: no additional lead weights needed and time spent detangling slider rigs tossed by the surf!
 3. They generally lead to an active fishing style which is really fun, if a little strenuous. But it's great exercise.
 4. You can get creative with them and use different kinds based on what water you're fishing in. For example, you might use a diver when you are casting into deeper surf, or a floater when the surf is not as rough and fish are striking more in shallows. For spoon lures you can paint your own or add reflective stickers or whatever you think will make it more enticing for fish.
+
+For me, I find that lures are less important for freshwater fishing. A lot of people use fake worms for freshwater fishing as well but I think nightcrawlers really do the trick. I also don't have huge problems with snags in freshwater.
 
 There are many kinds of lures. Some will require that you use a baitcaster (or "caster") rod
 instead of a common "spinning" rod. This is because for lures to work, you generally want them
