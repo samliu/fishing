@@ -6,12 +6,18 @@ they're after a worm or a baitfish.
 As it turns out, lures are just as effective as live baits in most cases, but you have to know
 how to use them correctly (particularly casting baits, as opposed to crankbaits).
 
+I personally am starting to like lures more than baits for a few reasons:
+
+1. Lures don't get snagged on seaweed as much when you're surfcasting.
+2. They are their own weight: no additional lead weights needed and time spent detangling slider rigs tossed by the surf!
+3. They generally lead to an active fishing style which is really fun, if a little strenuous. But it's great exercise.
+4. You can get creative with them and use different kinds based on what water you're fishing in. For example, you might use a diver when you are casting into deeper surf, or a floater when the surf is not as rough and fish are striking more in shallows. For spoon lures you can paint your own or add reflective stickers or whatever you think will make it more enticing for fish.
+
 There are many kinds of lures. Some will require that you use a baitcaster (or "caster") rod
 instead of a common "spinning" rod. This is because for lures to work, you generally want them
 to emulate some living creature (usually a small baitfish).
 
-There are generally (2) kinds of baits: jerkbaits and crankbaits. There's also a category that
-doesn't fit nicely with the other two, called ripbaits. They're described below.
+There are (2) main classifications of baits that groups them by how they're used: jerkbaits and crankbaits. There's also a category that doesn't fit nicely with the other two, called ripbaits. They're described below.
 
 ## Jerkbaits
 
@@ -22,6 +28,14 @@ Casting rods eliminate the issue of having loose line coils that lead to tangles
 spinning reel.
 
 Most jerkbaits are _ripbaits_.
+
+### Plugs
+
+[Plugs](https://en.wikipedia.org/wiki/Plug_(fishing)) are lures with a hard body. They're popular for ocean fishing. Sometimes baitfish-imitating plugs are called "Minnows" -- a really popular surfcasting plug is the [Daiwa SP Minnow](https://www.amazon.com/Diawa-Minnow-DSPM15F24-Blue-mackerel/dp/B003ZZBECU). Plugs have various kinds of action -- for example I have one with beads inside that roll around and cause the plug to look more fishlike as you reel it in. Plugs all have a lip that controls the movement of the lure as it's being reeled: some stay on the surface (floaters) and move up and down there, whereas others move up and down low in the water (sinkers).
+
+### Spoons
+
+[Spoon lures](https://en.wikipedia.org/wiki/Spoon_lure) are lures that look nothing like fish but are mainly to reflect light  and encourage bites through erratic motion. You want to use these on sunny days and you don't want to let them sink at all; start reeling as soon as they hit the water. I have some larger saltwater spoons as well as small freshwater spoons. You can troll with them by pulling them behind a moving boat as well.
 
 ### Swimbaits
 
