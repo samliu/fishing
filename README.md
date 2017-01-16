@@ -28,16 +28,16 @@
 
 ## Introduction
 
-A couple of months ago my partner and I went on a fishing trip on the bay: we
-caught a 17" Striped Bass (1" under the 18" limit), as well as an 8lbs Halibut
-that we later seasoned and had for dinner. We didn't do much besides ride the
-boat, hook bait, plop them in the water when told to, and reel them up. It was
+In early 2016 my partner and I went on a fishing trip in the San Francisco bay: we
+caught a 17" Striped Bass (released as it was 1" under the 18" limit), as well as
+an 8lbs Halibut that we later seasoned and had for dinner. We didn't do much besides
+ride the boat, hook bait, plop them in the water when told to, and reel them up. It was
 the perfect way to get hooked on fishing though!
 
 Seized with the fishing bug, I went out and bought a bunch of fishing equipment
 from [Gus's Discount Tackle](http://www.gusdiscounttackle.com), which is one of
 the few fishing shops in San Francisco. There is another shop to the south, but
-I was in Sunset so I tried out a few things and decided on two $30 rods good for
+I was in Sunset so I tried out a few things and decided on two $30 rods for
 saltwater pier and freshwater fishing. The store owner Steph recommended that I
 try powerbait for freshwater trout and catfish, and gave me the correct sized
 (small) hooks. She gave me some larger hooks and weights for saltwater pier
@@ -58,6 +58,9 @@ between Oakland and Walnut Creek. We rented a rowboat for the day (~$20) and
 spent our time trying not to drift too close to the reeds, clanging around and
 throwing baited hooks down at different depths for hours.
 
-We really didn't know what we were doing though. So I started to do some
-research, but there's a lot to learn and a lot of fishing terms! I'll keep all
-the information I learn about fishing here.
+We really didn't know what we were doing, so I started to do some
+research. But there's a lot to learn and a lot of fishing terms!
+
+__I realized there isn't a single site to learn about the myriad of tools
+and techniques of the modern angler, so this repository will serve as a reference
+for myself and anyone interested.__
