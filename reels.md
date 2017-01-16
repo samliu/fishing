@@ -69,6 +69,10 @@ Flyfishing is a surface fishing technique that relies on your casting the weight
 the weight of your tackle. Terminal tackle for fly fishing is almost weightless (a "fly lure"). It seems
 difficult and I think I prefer other kinds of fishing so I'm not going to write more about it.
 
+Here's what a fly reel looks like:
+
+<img alt="Fly Reel Example" src="./img/fly_reel.jpg" height="150">
+
 ## Reel Components
 
 There are (2) main components that contribute to the quality of a reel.
