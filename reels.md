@@ -5,22 +5,26 @@ the ones to know aren't too many and talked about below.
 
 ### Spinning Reels
 
-A spinning reel is probably the most common type of fishing rod among anglers,
-especially those going after small to medium-sized fish like bass, redfish, and crappie.
+Spinning reels are the most common reel and the one most think of when we talk about fishing.
+They're most used for small to medium-sized fish like bass, redfish, and crappie.
 These reels have a fixed spool underneath the rod, and line is drawn out by the weight of
 the lure, bait, or tackle.
 
+When you cast with a spinning reel, you lift the bail (a bar on the reel) and the weight of
+the tackle pulls string off the reel. The reel does NOT spin as line comes off it; it only
+spins when you're retrieving line.
+
+<img alt="Spinning Reel Example" src="./img/spinning_reel_abu_garcia.jpg" height="150">
+
 #### Benefits of a Spinning Reel
 
-All around versatility is the biggest reason people choose spinning reels. They can be used
-to cast many different types of tackle, including artificial lures and live bait. Because
-they only need to pull the weight of the fishing line, spinning reels are especially useful
-for light tackle and bait.
+_All around versatility_ is the biggest reason people choose spinning reels. They can be used
+to cast many different types of tackle, including artificial lures and live bait.
 
 #### Drawbacks of a Spinning Reel
 
 While spinning reels are great for casting practically everything in your tackle box, they don’t
-always provide the best effectiveness for heavy lures. They are also not as accurate as
+always provide the best effectiveness for heavy lures. They are also not as __accurate__ as
 baitcasters, so experienced bass anglers use them sparingly.
 
 If you are just getting started in fishing, a versatile and easy-to-use spinning reel is probably
@@ -28,11 +32,12 @@ your best option.
 
 ### Baitcaster Reels
 
-Baitcasters, also known as “bait casting reels”, are for the more experienced anglers who want better
-control and accuracy. With a baitcaster, the spool rotates as you cast, meaning the inertia has to be
-strong enough to move the spool but not so strong that it creates a rat’s nest. These types of reels
-require experience and skill, often requiring a full season’s worth or practice before they can be used
-effectively.
+Baitcasting reels (also known as baitcasters), are for the more experienced anglers who want better
+control and accuracy. Unlike a spinning reel, the _spool rotates as you cast_. This adds a new
+dimension of difficulty to casting: you have to stop the spool when the lure / bait lands so that you
+don't release too much line. These reels also look a bit different (the spool is sideways):
+
+<img alt="Baitcasting Reel Example" src="./img/baitcasting_reel_abu_garcia.jpg" height="150">
 
 #### Benefits of a Baitcaster
 
