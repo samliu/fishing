@@ -8,11 +8,15 @@ the ones to know aren't too many and talked about below.
 Spinning reels are the most common reel and the one most think of when we talk about fishing.
 They're most used for small to medium-sized fish like bass, redfish, and crappie.
 These reels have a fixed spool underneath the rod, and line is drawn out by the weight of
-the lure, bait, or tackle.
+the lure, bait, or tackle. They're the easiest kind of reel to use.
 
-When you cast with a spinning reel, you lift the bail (a bar on the reel) and the weight of
+When you cast with a spinning reel, you lift the bail (the bar on the reel) and the weight of
 the tackle pulls string off the reel. The reel does NOT spin as line comes off it; it only
 spins when you're retrieving line.
+
+That means you can throw your tackle into the water, then wait for it to land and float or sink,
+close your bail, and you're ready to wait for some fish. I emphasize this because it's not true
+for non-spinning reels.
 
 <img alt="Spinning Reel Example" src="./img/spinning_reel_abu_garcia.jpg" height="150">
 
@@ -32,8 +36,8 @@ your best option.
 
 ### Baitcaster Reels
 
-Baitcasting reels (also known as baitcasters), are for the more experienced anglers who want better
-control and accuracy. Unlike a spinning reel, the _spool rotates as you cast_. This adds a new
+Baitcasting reels (also known as baitcasters), are more difficult reels to use.
+Unlike a spinning reel, the _spool rotates as you cast_. This adds a new
 dimension of difficulty to casting: you have to stop the spool when the lure / bait lands so that you
 don't release too much line. These reels also look a bit different (the spool is sideways):
 
@@ -41,22 +45,28 @@ don't release too much line. These reels also look a bit different (the spool is
 
 #### Benefits of a Baitcaster
 
-The number one advantage for a baitcaster is accuracy. After hours of practice with a baitcaster,
-you’ll be able to put a lure exactly where you want it. You’ll also be able to stop the lure on a dime,
-meaning bad casts that are headed for a snag can be swiftly recovered.
+With practice, you get more overall accuracy with a baitcaster as well as some added casting distance.
+Because the reel rotates as you cast, there's no inertia keeping line from coming off the reel except
+for what you add by either using built-in brakes and/or your thumb (also called "thumbing"). Since you
+can stop line from coming off the reel at any time, you have an added degree of control.
+
+Baitcaster reels : spinning reels :: stick shift : automatic transmission.
+
+Maybe not as dramatic as that, but definitely a step up skillwise.
 
 #### Drawbacks of a Baitcaster
 
 You need patience to use a baitcaster effectively. At first, it will seem impossible to cast correctly,
-and if you don’t stop the spool after the lure lands, the line keeps feeding out, creating a frustrating
-mess. They are also used for lures alone, so they don’t have the versatility of other reels.
+and if you don’t stop the spool after your bait / lure lands, the line keeps feeding out.
 
-When you are ready to upgrade your fishing and increase your accuracy, consider purchasing a baitcaster.
+One fallacy that people give is that you can't cast bait with a baitcaster (that it's for lures only). This
+turns out to be false. If you think about it logically there's not really a reason why you can't attach bait
+instead of a lure.
 
 ### Fly Reel
 
-Flyfishing is an angling method in which an artificial "fly" is used to catch fish. So this is geared toward
-surface fishing, and requires special casting techniques to cast a nearly weightless fly lure. It seems
+Flyfishing is a surface fishing technique that relies on your casting the weight of the line instead of
+the weight of your tackle. Terminal tackle for fly fishing is almost weightless (a "fly lure"). It seems
 difficult and I think I prefer other kinds of fishing so I'm not going to write more about it.
 
 ## Reel Components
@@ -75,16 +85,17 @@ system determines how quickly it goes out -- not as fast as if you're just casti
 out super fast you have to reel really hard. If it goes out too slow and you catch a fast-swimming fish, it could
 yank your rod out of your hands or break the line.
 
-Good drag systems are consistent, durable, and smooth. That means
+Good drag systems are consistent, durable, and smooth. That means:
 
 1. They should always generate the same force
 2. They shouldn't break
 3. They shouldn't be jerky in operation
 
-The more "drag washers" (bearings) that your drag system has, the better it will probably be.
+Very loosely, the more "drag washers" (bearings) that your drag system has, the smoother it is and more pleasant
+to use. You set the drag by twising a knob on your reel. Counterclockwise to lessen the drag, clockwise to increase it (lefty loosey righty tighty).
 
-Experienced fishers actually set the drag for their rods. If you're a beginner, you probably just use whatever
-the rod came with.
+Most casual anglers just kind of feel for the drag system instead of trying to set specific resistances. But it's apparently
+possible to set specific resistances:
 
 From Wikipedia: 
 
