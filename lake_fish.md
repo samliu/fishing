@@ -4,6 +4,29 @@
 
 Kinds of Trout in California: Brook Trout, Brown Trout, Bull Trout, California Golden Trout, Coastal Cutthroat Trout, Coastal Rainbow Trout, Eagle Lake Rainbow Trout, Goose Lake Redband Trout, Kern River Rainbow Trout, Lahontan Cutthroat Trout, Little Kern Golden Trout, McCloud River Redband Trout, Paiute Cutthroat Trout, Warner Lakes Redband Trout
 
+### Rainbow Trout
+
+Rainbow trout are the favorite of many anglers for a few reasons:
+
+* They are "bite first think later" fish, so they're easy to catch.
+* Many parks stock them in lakes, so there are great times to get them.
+* They taste really good!
+
+Some tips for catching rainbow trout:
+
+* Don't use line heavier than 2lbs. Though they will bite at anything that looks
+  yummy, if they notice the line they won't go for it. Also the largest rainbow
+  trout you'll catch is probably only around 5lbs so you don't need heavy line.
+  Most rainbows will be between 1/2lbs to 3lbs.
+* They love earthworms (nightcrawlers) and are attracted to the movement. If your
+  worm isn't moving, switch it out.
+* They love the smell of powerbait if they're farmed trout; if they're wild trout
+  they like things like Salmon roe. A single salmon egg on a small hook can be effective.
+* Fly fishing: they like eating surface food (bugs) so fly fishing is super effective on them.
+
+Fish mostly eat what they're used to, so don't try to use powerbait on a wild trout. It
+probably won't go for it.
+
 ## Bass
 
 ### Black Basses
