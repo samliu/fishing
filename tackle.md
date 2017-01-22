@@ -60,17 +60,31 @@ They're also used for catfish and salmon.
 
 Somewhere between a J-hook and a circle hook, but more like a circle hook.
 
-## Swivel
+## Swivels
 
 A swivel is a piece of tackle that lets your bait spin freely in the water without
 twisting your line. That's important because it makes your bait look more alive to
 watching fish!
 
-The following image is called a "snap swivel" because it has a closed loop on one end and a big loop that snaps open/closed on the other. If there are two closed loops then it's a "barrel swivel."
+#### Snap Swivel
 
-<img alt="Snap Swivel" src="./img/swivel.jpg" height="200">
+The following image is called a "snap swivel" because it has a closed loop on one end and a big loop that snaps open/closed on the other.
 
-## 
+<img alt="Snap Swivel" src="./img/snap_swivel.jpg" height="200">
+
+#### Barrel Swivel
+
+If there are two closed loops then it's a "barrel swivel."
+
+<img alt="Barrel Swivel" src="./img/barrel_swivel.jpg" height="200">
+
+#### Three-Way Swivel
+
+Having three swiveling loops is most frequently used in rigs such that one loop holds a weight with a leader, and the other
+loop holds a line that drifts the bait. This rig is thought to be effective because fish can't feel the
+weight as well when they probe the bait.
+
+<img alt="Three-way Swivel" src="./img/three_way_swivel.jpg" height="200">
 
 ## Bobber
 
