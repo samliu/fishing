@@ -32,14 +32,27 @@ So 7/0 would be a very large hook, and 7 would be a pretty tiny hook.
 
 These hooks curve inward toward the stem and are designed to set themselves when a fish bites. You shouldn't hard set a circle hook. They work best when the fish grabs your bait / lure then turns around (which they usually do) -- and sets the hook in their cheek. Enables catch-and-release because it doesn't hook the fish's other body parts.
 
+<img alt="Circle Hook" src="./img/circle_hook.jpg" height="200">
+
+#### Octopus Hook
+
+Slightly less circular than your standard Circle hook, but similar in principle. Since the bend is more slight,
+it presents bait more naturally and is generally a little lighter and thinner.
+
+<img alt="Octopus Hook" src="./img/octopus_hook.jpg" height="200">
+
 #### J Hook
 
 J Hooks are just sharp J-shaped hooks. They don't curve inward, they curve up sharply. They require you to pull in on a strike to set the hook, and are very effective for big game fishing. However they're actually illegal in some places because they often gut-hook or gill-hook fish, greviously wounding them in the process. So it makes catch and release not possible if you're using this kind of hook. Some states / parks will mandate you use circle hooks to ensure you can return fish.
 
+<img alt="J Hook" src="./img/j_hook.jpg" height="200">
+
 #### Treble Hook
 
-Treble hooks are three-pronged fishing hooks that are often seen on lures. They're very effective for catching
-Trout and Bass in freshwater; you can put salmon eggs on each prong to imitate a cluster.
+Treble hooks are three-pronged fishing hooks that are often seen on lures & artificial baits in general. They're
+very effective for catching Trout and Bass in freshwater; you can put salmon eggs on each prong to imitate a cluster.
+
+They're also used for catfish and salmon.
 
 <img alt="Treble Hook" src="./img/treble_hook.jpg" height="200">
 
