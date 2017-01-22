@@ -2,12 +2,21 @@
 
 ## Types
 
-There are (2) main kinds of line: braid and monofilament.
+There are (2) main kinds of line: braid and monofilament. Both come in colors but only monofilament has clear. Both are good and catch fish.
+
+### Braided Line (Braid Line)
 
 Braid is stronger in general per thickness vs monofilament, and is kind of like sewing thread in consistency. It's harder
 to tie some knots on braid just because it's like dealing with thread.
 
-Both come in colors but only monofilament has clear. Both are good and catch fish.
+<img alt="Braid Line" src="./img/braid_line.jpg" height="200">
+
+### Monofilament (Mono Line)
+
+Mono is more common. You have the option to have clear line, which is nice for being less visible to fish. It has a
+bit of stretch to it which can help in some kinds of fishing.
+
+<img alt="Mono Line" src="./img/mono_line.jpg" height="200">
 
 ## Line Weight
 
