@@ -24,7 +24,7 @@ There are (2) main classifications of baits that groups them by how they're used
 __Dimensions to Lure Fishing__:
 
 * Retrieve pattern (cadence & frequency: jerking, pausing, popping, etc)
-* Depth of the water
+* Depth of the water (topwater? middle? sinker?)
 * Season (what kind of movement is needed for the temperature)
 * Stimulus (does it mostly use light / is it a visual lure? Is there a sound component?) -- maybe don't go for catfish
   with unscented lures, as they primarily use smell and feel to navigate.
