@@ -56,6 +56,22 @@ between rips).
 For example, I've heard someone describe a jerkbait as being a ripbait in certain seasons
 and not in others.
 
+### Hula Popper
+
+A top-water fishing lure. You cast it in and "pop" it up then let it sink back down with some cadence (5-10 seconds).
+Popular for bass fishing; has been around since 1960s. The inventor was a guy named Fred Arbogast.
+
+When properly fished, it creates a spitting action and a popping sound, making it a sight and sound lure.
+
+Primarily used in lakes.
+
+From this <a href="http://bassfishingdem.blogspot.com/2008/05/hula-popper.html">Bass fishing blog</a>:
+
+> The time of year to throw a Hula Popper or similar topwater lure is in the summer when the topwater bite kicks in and lasts
+> all the way through autumn. During these two periods, the Hula Popper can be a consistent bass magnet. Fish the Hula Popper
+> in calm water over any depth as bass can swim unbelievably fast from deep water to attack a surface lure. My best success
+> is in less than four feet of water along uneven banks with vegetation.
+
 ## Crankbaits
 
 Crankbaits can be used both with casting and spinning reels. The idea behind a crankbait is you cast it as far as you can, then slowly crank it back. Then do it again and again. The only way to fish a crankbait wrong is to fish it at the wrong depth.
@@ -67,3 +83,22 @@ to the water. This helps you set your hook in the bass's mouth quicker than if y
 rod first, which gives the bass time to get away.
 * When bass fishing with crankbaits you also want to keep your rod low during the fight so as to
 discourage the bass from jumping. One technique I saw described getting down on one knee.
+
+### Lipless Crankbaits
+
+Popular for fishing grassy areas where ordinary rigs get snagged.
+
+Some properties of lipless crankbaits:
+
+* More subtle swimming action, good for wintertime fishing.
+* Far-casting
+* Best fished in grass; the bait looks like a fish swimming in the grass without getting snagged.
+
+> “Lipless crankbaits allow you to do two very important things,” Chandler said. “You can cast them a mile and you can
+> retrieve them quickly. When you don’t have to spend much time between casts, you’ll be amazed at the amount of water you 
+> can cover in a day. When you catch a bass in the winter, there’s a great chance there are more with it. Lipless crankbaits 
+> may not catch every bass in the school, but they’re outstanding at triggering the most dominant or active ones.”
+
+#### Rat-l-trap (Rattlers)
+
+One of the most popular kinds of lipless crankbaits. Makes a rattle as you retrieve.
