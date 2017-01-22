@@ -36,6 +36,13 @@ These hooks curve inward toward the stem and are designed to set themselves when
 
 J Hooks are just sharp J-shaped hooks. They don't curve inward, they curve up sharply. They require you to pull in on a strike to set the hook, and are very effective for big game fishing. However they're actually illegal in some places because they often gut-hook or gill-hook fish, greviously wounding them in the process. So it makes catch and release not possible if you're using this kind of hook. Some states / parks will mandate you use circle hooks to ensure you can return fish.
 
+#### Treble Hook
+
+Treble hooks are three-pronged fishing hooks that are often seen on lures. They're very effective for catching
+Trout and Bass in freshwater; you can put salmon eggs on each prong to imitate a cluster.
+
+<img alt="Treble Hook" src="./img/treble_hook.jpg" height="200">
+
 #### Octopus Hook
 
 Somewhere between a J-hook and a circle hook, but more like a circle hook.
