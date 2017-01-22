@@ -29,6 +29,12 @@ __Dimensions to Lure Fishing__:
 * Stimulus (does it mostly use light / is it a visual lure? Is there a sound component?) -- maybe don't go for catfish
   with unscented lures, as they primarily use smell and feel to navigate.
 
+__What makes a good lure angler?__:
+
+* Efficieny: a good lure angler will try to cover a lot of water quickly to see if there are fish and what kind of
+  patterns they are reacting to.
+* Patterns: Yoyo (up and down), Crawl (like yoyo but along the bottom), Burn (retrieve VERY fast), Dead Stick (still at bottom for 5-6 seconds, then inch along slowly to imitate a dying fish)
+
 ## Jerkbaits
 
 These are lures that are used with baitcasting rods. You cast them out, then move them around by
