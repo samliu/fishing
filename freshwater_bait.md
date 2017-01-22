@@ -59,3 +59,8 @@ organic material, and they make great bait for smaller fish.
 ### Killies
 
 Also known as [Killifish](https://en.wikipedia.org/wiki/Killifish) I used to get a bucket of these and a [portable water aerator](https://www.amazon.com/Marine-Metal-Bubble-Portable-Pump/dp/B000EYULIS) to keep them alive. We were mostly catching freshwater bass and catfish with these; I got a 16" catfish at Holmdel Park in NJ! From what I understand they're mostly an east-coast thing though. I've yet to discover what live freshwater baitfish are used around here in California.
+
+### Shad
+
+Many northern California lakes have little shad. As a result you might find some success using them as live bait, but
+many lakes are regulated to prevent invasive species.
