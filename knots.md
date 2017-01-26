@@ -16,6 +16,16 @@ Want to land bigger fish? Learn at least these two knots:
 * Good for lines of 20+ lbs
 * Some say it tangles easier because it is run doubled through
 
+## Perfection Loop
+
+When you buy pre-tied hooks, they come with a loop at the end you can just put into your snap swivel or
+attach to the rig you bought (e.g surf leader rig). Here's how to make that loop: it's called the
+perfection loop. It's actually a super easy thing to learn and infinitely useful! Unlike the other
+knots it doesn't slide on the line, so you can make a fixed-sized hoop.
+
+![Perfection Loop](./img/perfection_loop.gif)
+
+
 ## Improved Cinch Knot
 
 * Easy! 5 turns, then slip the end through 2 hoops and pull tight!
