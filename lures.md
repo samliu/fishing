@@ -19,6 +19,8 @@ There are many kinds of lures. Some will require that you use a baitcaster (or "
 instead of a common "spinning" rod. This is because for lures to work, you generally want them
 to emulate some living creature (usually a small baitfish).
 
+You generally want to use mono line or have mono / fluorocarbon leader when using lures. Braid tends to tangle with lures.
+
 There are (2) main classifications of baits that groups them by how they're used: jerkbaits and crankbaits. There's also a category that doesn't fit nicely with the other two, called ripbaits. They're described below.
 
 __Dimensions to Lure Fishing__:
@@ -100,7 +102,7 @@ discourage the bass from jumping. One technique I saw described getting down on 
 
 ### Lipless Crankbaits
 
-Popular for fishing grassy areas where ordinary rigs get snagged.
+Popular for fishing grassy areas where ordinary rigs get snagged. Best when the water begins to warm up after a winter.
 
 Some properties of lipless crankbaits:
 
@@ -112,6 +114,8 @@ Some properties of lipless crankbaits:
 > retrieve them quickly. When you don’t have to spend much time between casts, you’ll be amazed at the amount of water you 
 > can cover in a day. When you catch a bass in the winter, there’s a great chance there are more with it. Lipless crankbaits 
 > may not catch every bass in the school, but they’re outstanding at triggering the most dominant or active ones.”
+
+Like many lures, you want to either use mono line or have a long fluorocarbon leader. Braid tangles with lure hooks too easily.
 
 #### Rat-l-trap (Rattlers)
 
