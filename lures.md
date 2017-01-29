@@ -39,10 +39,10 @@ __What makes a good lure angler?__:
 
 ## Jerkbaits
 
-These are lures that are used with baitcasting rods. You cast them out, then move them around by
-doing a "jerk-jerk-pause" kind of pattern. If you use a spinning rod, this will cause a lot of
+These are lures that are often used with baitcasting rods. You cast them out, then move them around by
+doing a "jerk-jerk-pause" kind of pattern. If you use a spinning rod, this may cause a lot of
 loose loops around your reel (though _technically_ you can use jerkbaits with a spinning rod).
-Casting rods eliminate the issue of having loose line coils that lead to tangles with a
+Casting reels eliminate the issue of having loose line coils that lead to tangles with a
 spinning reel.
 
 Most jerkbaits are _ripbaits_.
@@ -50,6 +50,13 @@ Most jerkbaits are _ripbaits_.
 ### Plugs
 
 [Plugs](https://en.wikipedia.org/wiki/Plug_(fishing)) are lures with a hard body. They're popular for ocean fishing. Sometimes baitfish-imitating plugs are called "Minnows" -- a really popular surfcasting plug is the [Daiwa SP Minnow](https://www.amazon.com/Diawa-Minnow-DSPM15F24-Blue-mackerel/dp/B003ZZBECU). Plugs have various kinds of action -- for example I have one with beads inside that roll around and cause the plug to look more fishlike as you reel it in. Plugs all have a lip that controls the movement of the lure as it's being reeled: some stay on the surface (floaters) and move up and down there, whereas others move up and down low in the water (sinkers).
+
+### Bucktail Jigs
+
+Used frequently for surfcasting for striped bass. These are best fished by casting them out, then letting them sink a little,
+then retrieving a little, then letting them sink a little, then retrieving a little. So essentially jerk-jerk-pause.
+
+They cast very far, don't tangle as easily as other lures, and work very well with ocean fish.
 
 ### Spoons
 
