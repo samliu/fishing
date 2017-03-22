@@ -62,6 +62,16 @@ They cast very far, don't tangle as easily as other lures, and work very well wi
 
 [Spoon lures](https://en.wikipedia.org/wiki/Spoon_lure) are lures that look nothing like fish but are mainly to reflect light  and encourage bites through erratic motion. You want to use these on sunny days and you don't want to let them sink at all; start reeling as soon as they hit the water. I have some larger saltwater spoons as well as small freshwater spoons. You can troll with them by pulling them behind a moving boat as well.
 
+### Spinnerbaits
+
+Spinners are spoons that spin when you pull them. One kind of spinner bait is the Yakima rooster tail. 
+
+Fishing technique:
+
+> Cast out, let it flutter down, if you don't get a bite on the downfall, then retrieve, reeling in steady and slowly. You
+> want to reel these just fast enough that the blades are spinning. Another technique is to cast them, let them flutter and 
+> then pull back on the rod and let them flutter down again. I get a lot of hits while the lures are falling.
+
 ### Swimbaits
 
 These are lures that have segments and are designed to look like swimming fish. You sort of have to move them around in still water, otherwise I've caught stuff on them in the ocean just from the ocean water moving. [Example of a swimbait](https://www.amazon.com/Blue-Gill-Panfish-Talipia-Fishing/dp/B00RC9A66A).
